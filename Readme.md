@@ -1,7 +1,6 @@
 ![Project Screenshot](./landingPage.png)
-# Postman Build with JavaScript and CodeMirror Package
 
-This is Landing Page Build with HTML5 and CSS3
+# This is Landing Page Build with HTML5 and CSS3
 
 ## Authors
 
